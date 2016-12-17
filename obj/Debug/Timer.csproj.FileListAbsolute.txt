@@ -1,0 +1,9 @@
+c:\users\natalya\documents\visual studio 2015\Projects\Timer\Timer\bin\Debug\Timer.exe.config
+c:\users\natalya\documents\visual studio 2015\Projects\Timer\Timer\bin\Debug\Timer.exe
+c:\users\natalya\documents\visual studio 2015\Projects\Timer\Timer\bin\Debug\Timer.pdb
+c:\users\natalya\documents\visual studio 2015\Projects\Timer\Timer\obj\Debug\Timer.csprojResolveAssemblyReference.cache
+c:\users\natalya\documents\visual studio 2015\Projects\Timer\Timer\obj\Debug\Timer.Form1.resources
+c:\users\natalya\documents\visual studio 2015\Projects\Timer\Timer\obj\Debug\Timer.Properties.Resources.resources
+c:\users\natalya\documents\visual studio 2015\Projects\Timer\Timer\obj\Debug\Timer.csproj.GenerateResource.Cache
+c:\users\natalya\documents\visual studio 2015\Projects\Timer\Timer\obj\Debug\Timer.exe
+c:\users\natalya\documents\visual studio 2015\Projects\Timer\Timer\obj\Debug\Timer.pdb
